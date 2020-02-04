@@ -2,9 +2,9 @@
   "dataSource": {
     "driverName": "mysql",
     "addr": "127.0.0.1:3306",
-    "database": "spot",
+    "database": "crypto",
     "user": "root",
-    "password": "",
+    "password": "5imhA@2020",
     "enableAutoMigrate": false
   },
   "redis": {
